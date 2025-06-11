@@ -1,7 +1,26 @@
-## Hi there 👋
+<h1>Hi, you can call me Sam! <br/><a href="https://github.com/joshmadakor1">BSc Honors in Computing Graduate</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>FNB App Academy Projects</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Small Business Projects</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
+<h2>Certifications</h2>
+
+- [Introduction to Cybersecurity](https://drive.google.com/file/d/1CA8jnW50xWzEU_SZc6RNhFdG1sxVrnnh/view?usp=drive_link)
+- [Exploring SAP Analytics Cloud - badge](https://drive.google.com/file/d/1X184NGDSSIB7O44-B5aMwGJHuew75Gnd/view?usp=drive_link)
+- [Exploring Fundamentals of SAP S_4HANA Cloud Public Edition_ProfessionalServices](https://drive.google.com/file/d/1zU56E9JLbugLnv-nbpIszaBxbTKi7FVv/view?usp=drive_link)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/samukelisiwe-mnisi/
 
 <!--
-**sam-mnisi/sam-mnisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
