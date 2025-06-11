@@ -3,9 +3,12 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>FNB App Academy Projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Learning Javascript](https://github.com/sam-mnisi/Learning-JS)
+  - [Compu-Kids Website](https://github.com/sam-mnisi/Compu-Kids-Website)
+  - [HTML Basics](https://github.com/sam-mnisi/HTML-Basics)
+  - [Pine City Zoo](https://github.com/sam-mnisi/Pine-City-Zoo)
 - <b>Small Business Projects</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Abasha Funeral Services Website](https://abashafuneralservice.co.za/)
 
 <h2>Certifications</h2>
 
