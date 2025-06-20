@@ -7,7 +7,8 @@
   - [Compu-Kids Website](https://github.com/sam-mnisi/Compu-Kids-Website)
   - [HTML Basics](https://github.com/sam-mnisi/HTML-Basics)
   - [Pine City Zoo](https://github.com/sam-mnisi/Pine-City-Zoo)
-  - [Contact Book](https://github.com/sam-mnisi/Contact-Book)
+  - [Contact Book](https://github.com/sam-mnisi/Contact-Book) 
+  - [Python Basics](https://github.com/sam-mnisi/Python) 
 - <b>Small Business Projects</b>
   - [Abasha Funeral Services Website](https://abashafuneralservice.co.za/)
 
